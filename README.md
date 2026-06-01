@@ -112,7 +112,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JanJan36/JanJan36/output/github-contribution-grid-snake-dark.svg" width="100%" />
