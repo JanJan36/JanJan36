@@ -1,0 +1,23 @@
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="160" fill="#0d1117" rx="12"/>
+
+  <!-- Decorative left quote mark -->
+  <text x="30" y="100" font-family="Georgia, serif" font-size="80" fill="#00C9A7" opacity="0.2">"</text>
+
+  <!-- Decorative right quote mark -->
+  <text x="740" y="115" font-family="Georgia, serif" font-size="80" fill="#00C9A7" opacity="0.2">"</text>
+
+  <!-- Top accent line -->
+  <line x1="60" y1="30" x2="740" y2="30" stroke="#00C9A7" stroke-width="1" opacity="0.3"/>
+
+  <!-- Quote text -->
+  <text x="400" y="82" font-family="Georgia, serif" font-size="22" fill="#ffffff" text-anchor="middle" font-style="italic">
+    ❝ First, solve the problem. Then, write the code. ❞
+  </text>
+
+  <!-- Bottom accent line -->
+  <line x1="60" y1="105" x2="740" y2="105" stroke="#00C9A7" stroke-width="1" opacity="0.3"/>
+
+  <!-- Author -->
+  <text x="720" y="135" font-family="'Courier New', monospace" font-size="14" fill="#00C9A7" text-anchor="end">— John Johnson</text>
+</svg>
