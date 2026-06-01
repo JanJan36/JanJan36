@@ -21,20 +21,11 @@
 
 ---
 
+## 🧑‍💻 About Me
+
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-### 👨‍💻 About Me
-
-```ts
-const JohnRey = {
-  username:  "JanJan36",
-  role:      "Full-Stack Developer",
-  quote:     "Creating opportunities is better than waiting for them.",
-  learning:  ["System Design", "Cloud Infrastructure"],
-  hobbies:   ["Coding", "Building projects", "Problem solving"],
-  portfolio: "janreycastillo.vercel.app"
-};
-```
+<img src="https://raw.githubusercontent.com/JanJan36/JanJan36/main/about-me.svg" width="480" />
 
 <br clear="right"/>
 
