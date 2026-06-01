@@ -1,0 +1,50 @@
+<svg width="680" height="300" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f1923;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="titleBarGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00C9A7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#007a65;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="680" height="300" rx="14" fill="url(#bgGrad)"/>
+  <rect width="680" height="300" rx="14" fill="none" stroke="#00C9A7" stroke-width="1" opacity="0.3"/>
+
+  <rect x="0" y="0" width="680" height="44" rx="14" fill="url(#titleBarGrad)"/>
+  <rect x="0" y="28" width="680" height="16" fill="url(#titleBarGrad)"/>
+
+  <circle cx="24" cy="22" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="22" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="22" r="6" fill="#28c840"/>
+
+  <text x="340" y="27" font-family="'Courier New', monospace" font-size="13" fill="#0d1117" text-anchor="middle" font-weight="bold" opacity="0.8">~/JanJan36 — about me</text>
+
+  <text x="24" y="80" font-family="'Courier New', monospace" font-size="16" fill="#00C9A7">❯</text>
+  <text x="44" y="80" font-family="'Courier New', monospace" font-size="16" fill="#7ee787">whoami</text>
+
+  <text x="44" y="106" font-family="'Courier New', monospace" font-size="18" fill="#ffffff" font-weight="bold">John Rey Castillo</text>
+  <text x="44" y="126" font-family="'Courier New', monospace" font-size="15" fill="#00C9A7">Full-Stack Developer</text>
+
+  <line x1="24" y1="140" x2="656" y2="140" stroke="#00C9A7" stroke-width="0.5" opacity="0.2"/>
+
+  <text x="24" y="165" font-family="'Courier New', monospace" font-size="15" fill="#00C9A7" opacity="0.7">💼  Role</text>
+  <text x="170" y="165" font-family="'Courier New', monospace" font-size="15" fill="#c9d1d9">Full-Stack Developer</text>
+
+  <text x="24" y="191" font-family="'Courier New', monospace" font-size="15" fill="#00C9A7" opacity="0.7">📖  Learning</text>
+  <text x="170" y="191" font-family="'Courier New', monospace" font-size="15" fill="#c9d1d9">System Architecture &amp; Cloud Infrastructure</text>
+
+  <text x="24" y="217" font-family="'Courier New', monospace" font-size="15" fill="#00C9A7" opacity="0.7">🎮  Hobbies</text>
+  <text x="170" y="217" font-family="'Courier New', monospace" font-size="15" fill="#c9d1d9">Coding, Building Projects, Problem Solving</text>
+
+  <text x="24" y="243" font-family="'Courier New', monospace" font-size="15" fill="#00C9A7" opacity="0.7">💬  Quote</text>
+  <text x="170" y="243" font-family="'Courier New', monospace" font-size="15" fill="#c9d1d9" font-style="italic">"Creating opportunities is better than</text>
+  <text x="170" y="261" font-family="'Courier New', monospace" font-size="15" fill="#c9d1d9" font-style="italic">waiting for them."</text>
+
+  <text x="24" y="288" font-family="'Courier New', monospace" font-size="16" fill="#00C9A7">❯</text>
+  <rect x="44" y="274" width="10" height="17" fill="#00C9A7" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
