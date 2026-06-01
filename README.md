@@ -108,9 +108,7 @@ const JohnRey = {
 <div align="center">
 <br/>
 
-<p style="font-size:60px"><em>❝ First, solve the problem. Then, write the code. ❞</em></p>
-
-<div align="right">— John Johnson</div>
+![Dev Quote](./quote.svg)
 
 <br/>
 </div>
