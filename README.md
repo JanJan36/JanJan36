@@ -13,8 +13,8 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=JanJan36&color=00C9A7&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/JanJan36?label=Followers&color=00C9A7&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=JanRey36&color=00C9A7&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/JanRey36?label=Followers&color=00C9A7&style=flat-square" />
 </p>
 
 </div>
@@ -72,16 +72,16 @@
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=JanJan36&cc=0d1117&tc=00C9A7&ic=00C9A7&bc=0d1117" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JanJan36&theme=github_dark&title_color=00C9A7" width="36%" />
+<img src="https://github-stats-alpha.vercel.app/api?username=JanRey36&cc=0d1117&tc=00C9A7&ic=00C9A7&bc=0d1117" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JanRey36&theme=github_dark&title_color=00C9A7" width="36%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=JanJan36&hide_border=true&background=0d1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=00C9A7&dates=c9d1d9&sideNums=00C9A7&currStreakNum=00C9A7&stroke=00C9A7" width="55%" />
+<img src="https://streak-stats.demolab.com?user=JanRey36&hide_border=true&background=0d1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=00C9A7&dates=c9d1d9&sideNums=00C9A7&currStreakNum=00C9A7&stroke=00C9A7" width="55%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JanJan36&bg_color=0d1117&color=00C9A7&line=00C9A7&point=ffffff&hide_border=true&area=true&area_color=00C9A7" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JanRey36&bg_color=0d1117&color=00C9A7&line=00C9A7&point=ffffff&hide_border=true&area=true&area_color=00C9A7" width="90%" />
 
 </div>
 
@@ -89,7 +89,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JanJan36&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JanRey36&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
 
 ---
@@ -107,7 +107,7 @@
 
 ## 🔝 Top Contributed Repos
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JanJan36&show_icons=true&bg_color=0d1117&title_color=00C9A7&text_color=c9d1d9&icon_color=00C9A7&border_color=00C9A7&hide_border=false&rank_icon=github" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JanRey36&show_icons=true&bg_color=0d1117&title_color=00C9A7&text_color=c9d1d9&icon_color=00C9A7&border_color=00C9A7&hide_border=false&rank_icon=github" width="60%" />
 </div>
 
 ---
@@ -115,7 +115,7 @@
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JanJan36/JanJan36/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/JanRey36/JanRey36/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
